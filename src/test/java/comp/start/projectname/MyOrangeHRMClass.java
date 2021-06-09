@@ -15,6 +15,7 @@ public class MyOrangeHRMClass {
 	@BeforeTest
 	  public void beforeClass() throws InterruptedException {
 		  System.out.println("before method");
+		  System.out.println("New change after branch chnage");
 		  System.setProperty("webdriver.chrome.driver", "Resource/chromedriver.exe");
 			driver= new ChromeDriver();
 		    driver.get("http://output.jsbin.com/usidix/1");
