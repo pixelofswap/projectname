@@ -4,7 +4,7 @@
 <test name="TestChrome">
    <parameter name="myBrowser" value="chrome"/>
     <classes>
-      <class name="comp.start.projectname.NewTestBrowsers"/>
+      <class name="comp.start.projectname.AlertHandleClass"/>
     </classes>
   </test> <!-- Test -->
 
