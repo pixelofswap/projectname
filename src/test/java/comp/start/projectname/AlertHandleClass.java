@@ -2,7 +2,7 @@ package comp.start.projectname;
 
 
 import org.testng.annotations.BeforeClass;
-import org.junit.Test;
+import org.testng.annotations.Test;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
